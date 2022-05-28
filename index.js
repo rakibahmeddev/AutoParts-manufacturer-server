@@ -195,7 +195,7 @@ async function run() {
     });
 
     // make payment
-    //
+    //...
     // app.post("/create-payment-intent",verifyJWT, async(req, res)=>{
     //   const order = req.body;
     //   const price = order?.productPrice;

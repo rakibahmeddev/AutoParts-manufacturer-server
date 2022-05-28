@@ -1,4 +1,4 @@
-![AutoParts](/src/assets/logo.webp "AutoParts")
+![AutoParts](/assets/logo.webp "AutoParts")
 
 ## Live site link:
 

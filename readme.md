@@ -2,6 +2,8 @@
 
 ## Live site link:
 
+## Backend heroku:
+
 ### Technology that I used
 
 - express js
@@ -9,3 +11,4 @@
 - Json web token
 - dotenv
 - mongodb
+- nodemon
